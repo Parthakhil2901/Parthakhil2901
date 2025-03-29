@@ -1,7 +1,11 @@
 
 # 💫 About Me:
-🚀 Tech enthusiast on a mission to build, innovate, and dominate! From full-stack development to game design, I love crafting digital experiences that make an impact. Always learning, always creating! 🎮💻<br><br>🔥 What I Do<br>👨‍💻 Full-Stack Developer | Web, App, & Game Development<br><br>🎮 Game Dev Enthusiast | Turning ideas into interactive worlds<br><br>🤖 AI/ML & Cybersecurity Explorer | Automating & Securing the Future<br><br>🚀 President, ArrowDev Club | Empowering devs & fostering innovation<br><br>📖 Writer & Researcher | Working on a novel & publishing papers<br><br>🏆 Hackathon Competitor | Building creative, problem-solving solutions<br><br>🌍 Polyglot in Progress | Learning Japanese, Korean, German, French & more
-
+👨‍💻 Full-Stack Developer | <br>
+🎮 Game Dev Enthusiast |  <br>
+🤖 AI/ML & Cybersecurity Explorer |  <br>
+🚀 President, ArrowDev Club |  <br>
+🏆 Hackathon Competitor & Researcher |  <br>
+🌍 Learning Japanese, Korean & more   <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akkhi__xx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Akhilesh shukla) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Akhilesh shukla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akhileshshukla2901@gmail.com) 
