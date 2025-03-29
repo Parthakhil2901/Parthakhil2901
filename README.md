@@ -8,9 +8,9 @@
 🌍 Learning Japanese, Korean & more   <br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]  (https://instagram.com/akkhi__xx)      <br>  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]  (https://linkedin.com/in/Akhilesh shukla)    <br> 
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)]  (https://mastodon.social/@Akhilesh shukla)     <br>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]  (https://instagram.com/akkhi__xx)  <br>  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]  (https://linkedin.com/in/Akhileshshukla)    <br> 
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)]  (https://mastodon.social/@Akhileshshukla)     <br>
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]   (mailto:akhileshshukla2901@gmail.com)  <br>
 
 # 💻 Tech Stack:
